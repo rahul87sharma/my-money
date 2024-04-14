@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { dateFormat } from 'D:/MyMoney/Frontend/my-money/src/Utils/dateFormat';
-import { bitcoin, book, calender, card, circle, clothing, comment, rupee, food, freelance, medical, money, piggy, stocks, takeaway, trash, tv, users, yt } from 'D:/MyMoney/Frontend/my-money/src/Utils/Icons';
+import { dateFormat } from '../../Utils/dateFormat';
+import { bitcoin, book, calender, card, circle, clothing, comment, rupee, food, freelance, medical, money, piggy, stocks, takeaway, trash, tv, users, yt } from '../../Utils/Icons';
 import Button from '../Button/Button';
 
 function IncomeItem({
