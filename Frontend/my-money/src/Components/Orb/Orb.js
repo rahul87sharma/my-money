@@ -1,3 +1,5 @@
+// Added this orb like moving structure with haze and fade effect to make it look more attractive
+
 import React from "react";
 import styled, { keyframes } from "styled-components";
 import { useWindowSize } from "../../Utils/useWindowSize";
