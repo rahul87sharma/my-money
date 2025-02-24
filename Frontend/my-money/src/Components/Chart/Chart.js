@@ -1,3 +1,5 @@
+// Using chart.js library to implement chats in tracker
+
 import React from 'react'
 import {Chart as ChartJs, 
     CategoryScale,
