@@ -1,3 +1,6 @@
+// Including history feature for expense and income
+
+
 import React from 'react'
 import styled from 'styled-components'
 import { useGlobalContext } from '../context/globalContext'
